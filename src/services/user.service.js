@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:8080/users';
+const BASE_URL = 'https://friendsbook-app-server.herokuapp.com/';
 const REQUEST_OPTIONS = {
   method: 'GET',
   redirect: 'follow'
