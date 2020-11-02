@@ -7,7 +7,6 @@ const UserCard = (props) => {
   const { id, firstName, lastName, avatar, handleViewFriendsClick } = props;
 
   const onClick = (e) => {
-    console.log(e);
     handleViewFriendsClick(id);
   }
 

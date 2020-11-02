@@ -1,4 +1,4 @@
-const BASE_URL = 'https://friendsbook-app-server.herokuapp.com/';
+const BASE_URL = 'https://friendsbook-app-server.herokuapp.com/users';
 const REQUEST_OPTIONS = {
   method: 'GET',
   redirect: 'follow'

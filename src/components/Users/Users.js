@@ -65,7 +65,6 @@ const UsersComponent = (props) => {
   }
 
   const handleViewFriendsClick = (id) => {
-    console.log(id);
     fetchUserFriends(id);
   }
 
